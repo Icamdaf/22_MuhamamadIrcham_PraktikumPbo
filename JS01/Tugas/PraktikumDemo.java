@@ -37,14 +37,6 @@ public class PraktikumDemo {
     buku3.info();
     System.out.println("---------------------------------------");
 
-    hp1.setMerek("Samsung");
-    hp1.setHarga(4500000);
-    hp1.setJumlah(10);
-    hp1.info();
-
-    tas1.setJenis("Totebag Cherrypop");
-    tas1.setWarna("Merah");
-    tas1.setHarga(2300000);
-    tas1.info();
+    
   }
 }
